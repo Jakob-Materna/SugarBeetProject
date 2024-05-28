@@ -1,3 +1,5 @@
+## Sugar Beet Project
+
 Repository for the Research Project (BINP37) at Lund University. Read the report and logbook for additional information. Result files are too big and not publicly available and are therefore not included on GitHub. Included files:
 
 ### mapping_merger.R
